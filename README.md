@@ -66,6 +66,7 @@ Services
 * [beeswax](https://www.beeswax.com/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
 * [smarty ads](https://smartyads.com/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
 * [Bamboo tagify](http://bamboo.taggify.net/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
+* [AdSpirit AdServer](http://www.adspirit.com/realtime-bidding10.0.html) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
 
 
 Other
